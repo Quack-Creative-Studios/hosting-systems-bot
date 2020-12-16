@@ -1,0 +1,21 @@
+{
+  "name": "Company Name",
+  "domain": "mynetwork.com",
+  "token": "token",
+  "prefix": "bot prefix",
+  "icon": "bot icon url",
+  "check": "checkmark emoji id",
+  "cross": "cross emoji id",
+  "supportrole": "support team role",
+  "welcomeid": "welcome channel id",
+  "goodbyeid": "goodbye channel id",
+  "reviewid": "review channel id",
+  "verifyrid": "verify role id",
+  "verifychid": "verify channel id",
+  "announcementsid": "announcement channel id",
+  "suggestid": "suggestion channel id",
+  "logsid": "logging channel id",
+  "categoryid": "support ticket category id",
+  "rdis": "disable review system- true/false",
+  "swearfilteron": "true/false enable swear filters"
+}

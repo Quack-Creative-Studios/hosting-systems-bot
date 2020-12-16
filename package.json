@@ -1,0 +1,22 @@
+{
+  "name": "iDenT",
+  "version": "4.5.1",
+  "description": "Bot system for hosting servers and other servers along those lines.",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Quack! Development & Hosting",
+  "bugs": {
+    "url": "http://www.quackweb.co.uk"
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "latest",
+    "file-system": "^2.2.2"
+  }
+}
